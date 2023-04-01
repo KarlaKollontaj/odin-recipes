@@ -8,4 +8,4 @@ skills:
 - create html files
 - organize website directories (index, img, recipes)
 - use html main tags (h1,h2, h3, p, img, ul+li, ol+li)
-- use <a href> and <img src> properly
+- use a href and img src properly
